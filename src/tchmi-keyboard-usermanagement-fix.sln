@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# TcXaeShell Solution File, Format Version 11.00
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FE7A1B72-C5B7-4D7C-BB7D-76384D4DE8E1}") = "tchmi-keyboard-usermanagement-fix", "tchmi-keyboard-usermanagement-fix\tchmi-keyboard-usermanagement-fix.hmiproj", "{91ECFE1A-6E81-45DA-9721-E14EC5C6534A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|TwinCAT HMI = Debug|TwinCAT HMI
+		Release|TwinCAT HMI = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91ECFE1A-6E81-45DA-9721-E14EC5C6534A}.Debug|TwinCAT HMI.ActiveCfg = Debug|TwinCAT HMI
+		{91ECFE1A-6E81-45DA-9721-E14EC5C6534A}.Debug|TwinCAT HMI.Build.0 = Debug|TwinCAT HMI
+		{91ECFE1A-6E81-45DA-9721-E14EC5C6534A}.Release|TwinCAT HMI.ActiveCfg = Release|TwinCAT HMI
+		{91ECFE1A-6E81-45DA-9721-E14EC5C6534A}.Release|TwinCAT HMI.Build.0 = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {243576E5-843D-49A0-87AC-D155C849DFB6}
+	EndGlobalSection
+EndGlobal
